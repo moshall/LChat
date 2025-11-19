@@ -1,0 +1,7 @@
+{
+  "name": "LittleChat",
+  "description": "An immersive, deep-purple note-taking space that uses AI to spark new ideas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
